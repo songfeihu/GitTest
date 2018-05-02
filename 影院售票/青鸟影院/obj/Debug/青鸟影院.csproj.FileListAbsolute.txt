@@ -1,0 +1,37 @@
+E:\Users\Documents\Visual Studio 2012\Projects\S2222222\青鸟影院\青鸟影院\bin\Debug\青鸟影院.exe.config
+E:\Users\Documents\Visual Studio 2012\Projects\S2222222\青鸟影院\青鸟影院\bin\Debug\青鸟影院.exe
+E:\Users\Documents\Visual Studio 2012\Projects\S2222222\青鸟影院\青鸟影院\bin\Debug\青鸟影院.pdb
+E:\Users\Documents\Visual Studio 2012\Projects\S2222222\青鸟影院\青鸟影院\obj\Debug\青鸟影院.csprojResolveAssemblyReference.cache
+E:\Users\Documents\Visual Studio 2012\Projects\S2222222\青鸟影院\青鸟影院\obj\Debug\青鸟影院.FrmCinema.resources
+E:\Users\Documents\Visual Studio 2012\Projects\S2222222\青鸟影院\青鸟影院\obj\Debug\青鸟影院.Properties.Resources.resources
+E:\Users\Documents\Visual Studio 2012\Projects\S2222222\青鸟影院\青鸟影院\obj\Debug\青鸟影院.csproj.GenerateResource.Cache
+E:\Users\Documents\Visual Studio 2012\Projects\S2222222\青鸟影院\青鸟影院\obj\Debug\青鸟影院.exe
+E:\Users\Documents\Visual Studio 2012\Projects\S2222222\青鸟影院\青鸟影院\obj\Debug\青鸟影院.pdb
+E:\Users\Documents\Visual Studio 2012\Projects\S2222222\S2\青鸟影院\青鸟影院\bin\Debug\青鸟影院.exe.config
+E:\Users\Documents\Visual Studio 2012\Projects\S2222222\S2\青鸟影院\青鸟影院\obj\Debug\青鸟影院.exe
+E:\Users\Documents\Visual Studio 2012\Projects\S2222222\S2\青鸟影院\青鸟影院\obj\Debug\青鸟影院.pdb
+E:\Users\Documents\Visual Studio 2012\Projects\S2222222\S2\青鸟影院\青鸟影院\bin\Debug\青鸟影院.exe
+E:\Users\Documents\Visual Studio 2012\Projects\S2222222\S2\青鸟影院\青鸟影院\bin\Debug\青鸟影院.pdb
+E:\Users\Documents\Visual Studio 2012\Projects\S2222222\S2\青鸟影院\青鸟影院\obj\Debug\青鸟影院.csprojResolveAssemblyReference.cache
+E:\Users\Documents\Visual Studio 2012\Projects\S2222222\S2\青鸟影院\青鸟影院\obj\Debug\青鸟影院.FrmCinema.resources
+E:\Users\Documents\Visual Studio 2012\Projects\S2222222\S2\青鸟影院\青鸟影院\obj\Debug\青鸟影院.Properties.Resources.resources
+E:\Users\Documents\Visual Studio 2012\Projects\S2222222\S2\青鸟影院\青鸟影院\obj\Debug\青鸟影院.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\青鸟影院\青鸟影院\bin\Debug\青鸟影院.exe.config
+C:\Users\Administrator\Desktop\青鸟影院\青鸟影院\obj\Debug\青鸟影院.exe
+C:\Users\Administrator\Desktop\青鸟影院\青鸟影院\obj\Debug\青鸟影院.pdb
+C:\Users\Administrator\Desktop\青鸟影院\青鸟影院\bin\Debug\青鸟影院.exe
+C:\Users\Administrator\Desktop\青鸟影院\青鸟影院\bin\Debug\青鸟影院.pdb
+C:\Users\Administrator\Desktop\青鸟影院\青鸟影院\obj\Debug\青鸟影院.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\青鸟影院\青鸟影院\obj\Debug\青鸟影院.FrmCinema.resources
+C:\Users\Administrator\Desktop\青鸟影院\青鸟影院\obj\Debug\青鸟影院.Properties.Resources.resources
+C:\Users\Administrator\Desktop\青鸟影院\青鸟影院\obj\Debug\青鸟影院.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\S2\影院售票\青鸟影院\bin\Debug\青鸟影院.exe.config
+C:\Users\Administrator\Desktop\S2\影院售票\青鸟影院\obj\Debug\青鸟影院.exe
+C:\Users\Administrator\Desktop\S2\影院售票\青鸟影院\obj\Debug\青鸟影院.pdb
+C:\Users\Administrator\Desktop\S2\影院售票\青鸟影院\bin\Debug\青鸟影院.exe
+C:\Users\Administrator\Desktop\S2\影院售票\青鸟影院\bin\Debug\青鸟影院.pdb
+C:\Users\Administrator\Desktop\S2\影院售票\青鸟影院\bin\Debug\IrisSkin2.dll
+C:\Users\Administrator\Desktop\S2\影院售票\青鸟影院\obj\Debug\青鸟影院.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\S2\影院售票\青鸟影院\obj\Debug\青鸟影院.FrmCinema.resources
+C:\Users\Administrator\Desktop\S2\影院售票\青鸟影院\obj\Debug\青鸟影院.Properties.Resources.resources
+C:\Users\Administrator\Desktop\S2\影院售票\青鸟影院\obj\Debug\青鸟影院.csproj.GenerateResource.Cache
